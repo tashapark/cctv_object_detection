@@ -2,11 +2,11 @@
 
 https://www.canva.com/design/DAGje4IH6hc/4mE7FDLrmzCVj2ijeR7DUA/view?utm_content=DAGje4IH6hc&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h319839542a
 
-#### yolov5를 best 모델로 사용중.
-#### python 전역변수와 버전 문제로 torch에러가 계속 떠서 tmux 못한 상태
-#### requirement.txt 에는 욜로 버전별이 아닌 전부 다 들어가 있음. 디텍트론2도 중간에 다운 받았음. 
-#### 5v이 numpy나 torch에서 요구되는 것이 다름. 다음에 할 때는 가상환경 나누길 추천 
-#### 멘토 리뷰나 기타 파일들은 comento 폴더에 있음. 
+- yolov5를 best 모델로 사용중.
+- python 전역변수와 버전 문제로 torch에러가 계속 떠서 tmux 못한 상태
+- requirement.txt 에는 욜로 버전별이 아닌 전부 다 들어가 있음. 디텍트론2도 중간에 다운 받았음.
+- 5v이 numpy나 torch에서 요구되는 것이 다름. 다음에 할 때는 가상환경 나누길 추천
+- 멘토 리뷰나 기타 파일들은 comento 폴더에 있음. 
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/8e6c5233-ce22-4ec4-b63f-1fe57ca96f64" />
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/7b2f1fd3-6eca-4858-9f43-429b5617a886" />
