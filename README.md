@@ -9,7 +9,7 @@ https://www.canva.com/design/DAGje4IH6hc/4mE7FDLrmzCVj2ijeR7DUA/view?utm_content
 - 멘토 리뷰나 기타 파일들은 comento 폴더에 있음. 
 
 <img width="889" alt="image" src="https://github.com/user-attachments/assets/8e6c5233-ce22-4ec4-b63f-1fe57ca96f64" />
-<img width="901" alt="image" src="https://github.com/user-attachments/assets/7b2f1fd3-6eca-4858-9f43-429b5617a886" />
+<img width="894" alt="image" src="https://github.com/user-attachments/assets/7b7c95d2-23ac-440e-8522-dbd501d1afd7" />
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/2744f79b-da7e-4e16-ae35-c602eb2a6f85" />
 <img width="901" alt="image" src="https://github.com/user-attachments/assets/2e853ffe-94f5-40a3-a39a-68815652b424" />
 <img width="894" alt="image" src="https://github.com/user-attachments/assets/cc2a7f05-b411-420b-a808-20fc9ef04f2e" />
